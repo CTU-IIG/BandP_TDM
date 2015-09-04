@@ -1,0 +1,7 @@
+NumDevices = 8;
+NumSlotes = 64;
+
+
+GivenBandwidthOld = [0.0748307, 0.118765, 0.131238, 0.150247, 0.13347, 0.0674651, 0.126111, 0.091279];
+GivenLatency = [21.6504, 9.76629, 11.4619, 8.00477, 9.12229, 23.0764, 12.7432, 12.8762];
+HighestPossibleCritFunctionValue = 1.1;

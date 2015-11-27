@@ -33,4 +33,4 @@ Remark:
 If you find this software useful for your research or you create an algorithm
 based on this software, please cite our original paper in your publication list.
 
-Anna Minaeva, Premysl Sucha, Benny Akesson and Zdenek Hanzalek, “Scalable and Efficient Configuration of Time-Division Multiplexed Resources”
+Minaeva, A - Šůcha, P. - Akesson, B. - Hanzálek, Z.: Scalable and Efficient Configuration of Time-Division Multiplexed Resource, Journal of Systems and Software, Available online 19 November 2015, ISSN 0164-1212, http://dx.doi.org/10.1016/j.jss.2015.11.019.
